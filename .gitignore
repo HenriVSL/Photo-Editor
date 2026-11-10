@@ -1,0 +1,25 @@
+
+# Added for GitHub publishing
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcarchive
+.build/
+.swiftpm/
+.claude/
+
+# Third-party presets and sample photos (not redistributable / too large)
+/Cinematic V2 01.xmp
+/IMG_*
+/LIDF*/
+/Presets for Desktop*/
+/problematic_presets/
+/lut_extraction/
+/Photo Editor/DevSamples/
